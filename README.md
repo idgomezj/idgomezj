@@ -105,7 +105,6 @@
 
   Lean manufacturing has proven its positive effects on operational and economic performance in multiple cases. However, growing consciousness regarding sustainability and the Triple Bottom Line approach requires an integral performance based on three main goals: economic growth, environmental preservation, and social responsibility. Given the relevance that lean manufacturing has acquired, it is
 important to understand its effects on sustainability. Thus, this paper presents a literature review, discussing the most relevant findings of research in this sphere, and identifying current trends concerning the effect of lean manufacturing on sustainable performance. A total of 69 papers were reviewed, following a five-step synthesis methodology. Common and contrasting results were categorized according to each pillar of the triple bottom line, which allowed for the identification of not only growing research trends, but also of knowledge gaps. Unlike previous literature reviews, this study approaches lean manufacturing's effect on performance from a multidimensional point of view, accounting for all three triple bottom line pillars. It contributes on the identification of the main current research trends, which favors branches: one which supports complementary interactions between lean manufacturing and all three pillars of the triple bottom line, and the other, which evidences trade-offs among them. According to the results of the review, knowledge gaps on the matter remain, which require further research.
- 
   - <p>
     <a href="https://rcientificas.uninorte.edu.co/index.php/ingenieria/article/view/8090/9558" style="color:#348899; font-weight:bold;">
       Multicriteria methodology for decoupling point placement in manufacturing systems
@@ -147,12 +146,12 @@ important to understand its effects on sustainability. Thus, this paper presents
 
 <h2 style="color:#e8476d"> 📈 GitHub Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idgomezj&show_icons=true&theme=radical&count_private=true&bg_color=50d2a310&border_color=449991&title_color=f2ebc7&text_color=019fa8&icon_color=e8476d&ring_color=e8476d" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=idgomezj&show_icons=true&theme=radical&count_private=true&bg_color=50d2a310&border_color=449991&title_color=042d43&text_color=019fa8&icon_color=e8476d&ring_color=e8476d" alt="GitHub Stats">
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idgomezj&background=50d2a310&ring=ff8590&fire=e8476d&currStreakNum=f2ebc7&sideNums=f2ebc7&currStreakLabel=042d43&sideLabels=019fa8&dates=019fa8&border=50d2a3" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idgomezj&background=50d2a310&ring=ff8590&fire=e8476d&currStreakNum=042d43&sideNums=042d43&currStreakLabel=042d43&sideLabels=019fa8&dates=019fa8&border=50d2a3" alt="GitHub Streak">
 </p>
 
 
